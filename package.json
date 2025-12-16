@@ -1,0 +1,10 @@
+{
+  "name": "collection-sort-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'dev script placeholder'",
+    "build": "echo 'build script placeholder'",
+    "start": "echo 'start script placeholder'"
+  },
+  "dependencies": {}
+}

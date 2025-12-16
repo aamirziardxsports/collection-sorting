@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "app/routes/proxy.collection-sort.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/proxy/collection-sort",
+      "dest": "app/routes/proxy.collection-sort.js"
+    }
+  ]
+}
